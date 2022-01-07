@@ -1,8 +1,8 @@
 ### Hi, i am using GitHub!
 
 <div>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=yoskatista&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoskatista&layout=compact&langs_count=7&theme=dark"/>
+  <img heigth="150em" src="https://github-readme-stats.vercel.app/api?username=yoskatista&show_icons=true&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoskatista&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
