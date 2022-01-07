@@ -11,9 +11,8 @@
 
 
 <div>
-  <img heigth="100em" src="https://github-readme-stats.vercel.app/api?username=yoskatista&show_icons=true&theme=dark"/>
-
-  <img height="445em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoskatista&layout=compact&langs_count=7&theme=dark"/>
+  <img heigth="50em" src="https://github-readme-stats.vercel.app/api?username=yoskatista&show_icons=true&theme=dark"/>
+  <img height="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoskatista&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
