@@ -11,8 +11,8 @@
 
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=yoskatista&show_icons=true&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoskatista&layout=compact&langs_count=7&theme=dark"/>
+  <img width="350"  src="https://github-readme-stats.vercel.app/api?username=yoskatista&show_icons=true&theme=dark"/>
+  <img width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoskatista&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
